@@ -23,14 +23,12 @@
 
 // This header file provides access to Win32, plus NTSTATUS values and some access mask values.
 
-#ifndef __cplusplus
 #ifndef CINTERFACE
 #define CINTERFACE
 #endif
 
 #ifndef COBJMACROS
 #define COBJMACROS
-#endif
 #endif
 
 #ifndef INITGUID
